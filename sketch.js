@@ -14,7 +14,7 @@ function setup() {
 
 
   
-    bullet=createSprite(50, 200, 20,10);  
+    bullet=createSprite(50, 200, 20,5);  
     bullet.velocityX = speed;
     bullet.shapeColor=color(255);
 
